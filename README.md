@@ -1,5 +1,6 @@
 # Simple App Ideas
 A List of simple app ideas to use for class assignments.
+Pull Requests welcome! Feel free to add any ideas/resources.
 
 ### App Ideas
 - Weight Tracker App
@@ -14,7 +15,9 @@ A List of simple app ideas to use for class assignments.
 - Reddit Client/Reader
 - Github Client
 
-### List of API's to use
+### List of API's
+- [Star Wars API (SWAPI)](https://swapi.co/)
+- [Poke API](https://pokeapi.co/)
 - [The Cat API](https://thecatapi.com/docs.html)
 - [The Dog API](https://dog.ceo/dog-api/)
 - [The Chuck Norris API](https://api.chucknorris.io/)
@@ -55,3 +58,30 @@ A List of simple app ideas to use for class assignments.
 - [The Twitter API](https://developer.twitter.com/en/docs)
 - [The YouTube API](https://developers.google.com/youtube/)
 - [Worldwide Holidays API](https://calendarific.com/api-documentation)
+
+### Image Placeholders
+- [Placeholder.com](https://placeholder.com/)
+- [placekitten.com](https://placekitten.com/)
+- [Placebeard.it](https://placebeard.it/)
+- [Lorem Picsum](https://picsum.photos/)
+
+### Image Generators
+- [robohash.org](https://robohash.org/)
+- [Adorable Avatars](http://avatars.adorable.io/)
+- [DiceBear Avatars](https://avatars.dicebear.com/)
+
+### Text Placeholders/Generators
+- [Cat Ipsum](http://www.catipsum.com/index.php)
+- [Bacon Ipsum](https://baconipsum.com/)
+- [Cupcake Ipsum](http://www.cupcakeipsum.com/)
+- [Hipster Ipsum](https://hipsum.co/)
+- [Office Ipsum](http://officeipsum.com/)
+- [Samuel L. Ipsum](http://slipsum.com/)
+- [Zombie Ipsum](http://www.zombieipsum.com/)
+- [Doctor Ipsum](http://doctoripsum.com/)
+- [SF Ipsum](http://www.sfipsum.com/)
+
+### Other Resources
+- [Fake JSON](https://fakejson.com/)
+- [JSONPlaceholder](http://jsonplaceholder.typicode.com/)
+
