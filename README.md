@@ -1,5 +1,6 @@
 # Simple App Ideas
 A List of simple app ideas to use for class assignments.
+
 Pull Requests welcome! Feel free to add any ideas/resources.
 
 ### App Ideas
