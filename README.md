@@ -17,6 +17,8 @@ Pull Requests welcome! Feel free to add any ideas/resources.
 - Reddit Client/Reader
 - Github Client
 
+# Resources
+
 ### List of API's
 - [Star Wars API (SWAPI)](https://swapi.co/)
 - [Poke API](https://pokeapi.co/)
