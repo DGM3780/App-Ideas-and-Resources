@@ -9,6 +9,7 @@ Pull Requests welcome! Feel free to add any ideas/resources.
 - Chat App
 - Pomodoro App
 - Connect 4 game
+- Task App (possible "add to calendar" interface on save, or add to firebase api)
 
 ### API-Powered App Ideas
 - Weather App
