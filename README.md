@@ -89,3 +89,9 @@ Pull Requests welcome! Feel free to add any ideas/resources.
 - [Fake JSON](https://fakejson.com/)
 - [JSONPlaceholder](http://jsonplaceholder.typicode.com/)
 
+### Git Resources
+ - [Think Like (a) Git](http://think-like-a-git.net/)
+ - [Git Flow Guide](https://enterprise.github.com/downloads/en/github-flow-cheatsheet.pdf)
+ - [Github Markdown Cheatsheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
+ - [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html?no-svg)
+ - [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US) (an online tutorial)
