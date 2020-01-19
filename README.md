@@ -62,6 +62,8 @@ Pull Requests welcome! Feel free to add any ideas/resources.
 - [The Twitter API](https://developer.twitter.com/en/docs)
 - [The YouTube API](https://developers.google.com/youtube/)
 - [Worldwide Holidays API](https://calendarific.com/api-documentation)
+- [UI Names API](https://https://uinames.com/)
+
 
 ### Image Placeholders
 - [Placeholder.com](https://placeholder.com/)
